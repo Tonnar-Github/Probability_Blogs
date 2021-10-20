@@ -1,7 +1,6 @@
 ---
 title: "Maxium Likelihood Estimation - How it works"
 author: "Tonnar Castellano"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: 
   pdf_document: default
 ---

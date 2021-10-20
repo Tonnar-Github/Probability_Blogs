@@ -1,9 +1,8 @@
 ---
-title: "Roulette Monte Carlo - Tonnar Castellano"
+title: "Monte Carlo Estimation"
+author: "Tonnar Castellano"
 output:
-  html_document:
-    df_print: paged
-  pdf_document: default
+ pdf_document: default
 ---
 
  
